@@ -1,0 +1,108 @@
+.nav-item
+{
+    margin-left: 14px;
+
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+.nav-header
+{
+    background-color: #feaf4e;
+}
+.navbar-brand
+{
+    color: #f9f5fa;
+    font-size: 30px;
+}
+.nav-item:hover
+{
+    background-color: #c07b27;
+    border-radius: 8px;
+    padding: 1px;
+}
+.nav-link
+{
+    color: #f9f5fa;
+    font-size: 20px;
+    font-weight: bold;
+}
+#h3text
+{
+    font-size: 40px;
+    color: #f0a141;
+}
+.ptext
+{
+    font-size: 25px;
+    text-align: justify;
+    padding-bottom:30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.spantext
+{
+    font-weight: bold;
+
+}
+.imgspecial
+{
+    height: 270px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+.txth3
+{
+  font-size: 20px;  
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+.h5xt
+{
+    font-size: 30px;
+}
+.ptx
+{
+    font-weight: bold;
+}
+
+.carousel-caption
+{
+    padding-bottom: 670px;
+    padding-left: 670px;
+}
+footer{
+    background-color: #feaf4e;
+    text-align: center;
+    padding: 50px;
+    margin-top: 60px;
+    font-size: 10px;
+}
+.card
+{
+    margin-top: 35px;
+    margin-bottom: 20px;
+    background-color: #feaf4e;
+}
+.icon1
+{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #ee4e18;
+    background-color: #f2f2f2;
+    padding: 6px;
+}
+#buttontop
+{
+    text-align: center;
+    background-color:#feaf4e;
+    border-radius: 5px;
+    width: 130px;
+    margin-left: 700px;
+    margin-top: 50px;
+}
